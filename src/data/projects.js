@@ -53,6 +53,7 @@ export const PROJECTS = [
       phone: '+213 656 035 364',
       address: 'Tlemcen, Algeria',
     },
+    liveUrl: 'https://chikhaoui-teams-app.vercel.app/',
   },
   {
     id: '3',
@@ -77,6 +78,7 @@ export const PROJECTS = [
       phone: '+213 656 035 364',
       address: 'Tlemcen, Algeria',
     },
+    liveUrl: 'https://chikhaouis-chat-app.webflow.io/',
   },
   {
     id: '4',
