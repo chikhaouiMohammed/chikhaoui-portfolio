@@ -699,7 +699,7 @@ export default function HomePage() {
                 <h3 className="text-3xl font-bold text-gray-900 mb-4">  
                   {contact.title}  
                 </h3>  
-                <p className="text-xl text-gray-900 mb-2">  
+                <p className="text-xl break-words overflow-wrap-anywhere text-gray-900 mb-2">  
                   {contact.primary}  
                 </p>  
               </motion.div>  
