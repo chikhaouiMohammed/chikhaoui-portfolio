@@ -629,7 +629,7 @@ export default function HomePage() {
               className="flex justify-center items-center"  // Added items-center for vertical centering
             >  
               <Image  
-                src="/images/myPictures/img_rectangle_19.png"  
+                src="/images/myPictures/aboutme.png"  
                 alt={t.sections.aboutTitle}  
                 width={500}  
                 height={500}  

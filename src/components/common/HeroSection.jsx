@@ -81,7 +81,7 @@ const HeroSection = ({ t }) => {
             whileHover={{ scale: 1.02 }}
           >
             <Image
-              src="/images/myPictures/img_rectangle_5-min.png"
+              src="/images/myPictures/herosection.png"
               alt={t.hero.imageAlt}
               width={397}
               height={601}
